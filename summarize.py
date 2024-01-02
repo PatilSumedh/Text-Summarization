@@ -1,4 +1,4 @@
-import nltk==3.6.2
+import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
 import heapq
