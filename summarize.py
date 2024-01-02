@@ -40,3 +40,6 @@ def text_summarizer(text):
     return summary
 
 text = input("Enter Your Text")
+
+summary = text_summarizer(text)
+print(summary)
